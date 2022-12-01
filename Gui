@@ -277,7 +277,7 @@ function Library:Window(title)
 		end
 		coroutine.wrap(XLZZDX_fake_script)()
 	end
-
+	
 	return Lib
 	
 end
